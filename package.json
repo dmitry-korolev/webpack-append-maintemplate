@@ -1,0 +1,19 @@
+{
+  "name": "webpack-prepend-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitry-korolev/webpack-append-maintemplate.git"
+  },
+  "author": "Dmitry Korolev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitry-korolev/webpack-append-maintemplate/issues"
+  },
+  "homepage": "https://github.com/dmitry-korolev/webpack-append-maintemplate#readme"
+}
